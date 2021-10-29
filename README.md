@@ -15,6 +15,11 @@ The app was built using the MERN stack with a React front end, MongoDB database,
 
 📑[Deployed Page ]() 
 
+Steps: 
+a) reviewed readme 
+b) copied over the hw starter code
+c) checked package.json files , ran npm i's, viewed functionality of existing starter code
+d) 
 --------------------------------
 
 ## User Story
